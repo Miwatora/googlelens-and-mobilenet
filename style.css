@@ -1,0 +1,27 @@
+img{
+width: 300px;
+height: 300px;
+border-radius: 15px;
+}
+
+body {
+    background-color: rgb(255, 252, 235);
+}
+.copy_right_footer {
+    position: fixed;
+    color: #a27353;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: #fece76;
+    line-height: 3;
+    text-align: center;
+}
+
+.header_div
+{
+background: #f8ffc5;
+color: #6e703d; 
+text-shadow: 5px 5px 5px rgb(188, 194, 127);
+
+}
